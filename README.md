@@ -1,2 +1,3 @@
 # GitTask1
-Task 1 for Git
+updated by master
+
